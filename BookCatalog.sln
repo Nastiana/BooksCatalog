@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookCatalog", "BookCatalog\BookCatalog.csproj", "{95B33A2C-E18F-495E-BD60-D1E67B329533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{7F800659-5ADF-4E80-9F71-FAA3A2E84B52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{27D65BD2-E27E-4828-A4FA-2CD0DEA6C8E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B33A2C-E18F-495E-BD60-D1E67B329533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B33A2C-E18F-495E-BD60-D1E67B329533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B33A2C-E18F-495E-BD60-D1E67B329533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B33A2C-E18F-495E-BD60-D1E67B329533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F800659-5ADF-4E80-9F71-FAA3A2E84B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F800659-5ADF-4E80-9F71-FAA3A2E84B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F800659-5ADF-4E80-9F71-FAA3A2E84B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F800659-5ADF-4E80-9F71-FAA3A2E84B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D65BD2-E27E-4828-A4FA-2CD0DEA6C8E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D65BD2-E27E-4828-A4FA-2CD0DEA6C8E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D65BD2-E27E-4828-A4FA-2CD0DEA6C8E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D65BD2-E27E-4828-A4FA-2CD0DEA6C8E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
